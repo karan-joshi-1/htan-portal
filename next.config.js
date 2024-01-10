@@ -9,7 +9,7 @@ module.exports = withMDX({
         return [
             {
                 source: '/htan-authors',
-                destination: '/authors',
+                destination: '/htanauthors',
                 permanent: true,
             },
         ];
